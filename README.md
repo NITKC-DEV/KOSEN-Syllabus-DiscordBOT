@@ -1,3 +1,3 @@
 # KOSEN-Syllabus-DiscordBOT
 
-高専生が作った高専生のために作ったDiscordBOTです
+高専生が高専生のために作ったDiscordBOTです
